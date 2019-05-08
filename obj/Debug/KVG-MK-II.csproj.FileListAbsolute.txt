@@ -1,0 +1,10 @@
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG-MK-II.csprojAssemblyReference.cache
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG_MK_II.Form1.resources
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG_MK_II.Properties.Resources.resources
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG-MK-II.csproj.GenerateResource.cache
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG-MK-II.csproj.CoreCompileInputs.cache
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\bin\Debug\KVG-MK-II.exe.config
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\bin\Debug\KVG-MK-II.exe
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\bin\Debug\KVG-MK-II.pdb
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG-MK-II.exe
+D:\ITVitae\C#\KGV-MK-2\KVG-MK-II\obj\Debug\KVG-MK-II.pdb
